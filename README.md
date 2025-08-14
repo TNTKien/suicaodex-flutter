@@ -1,1 +1,1 @@
-# suicaodex-flutter
+flutter ncct, đéo làm nữa
